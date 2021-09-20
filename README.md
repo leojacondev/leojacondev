@@ -56,5 +56,5 @@
 [![Gmail Badge](https://img.shields.io/badge/-eu@leojacon.dev-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:eu@leojacon.dev)](mailto:eu@leojacon.dev)
 [![GitHub Leonardo Jacon]( https://img.shields.io/github/followers/leojacondev?label=follow&style=social)](https://github.com/leojacondev)
 
-↪️ Thank you for visiting! ♥️
+<h4> ↪️ Thank you for visiting! ♥️ </h4>
 <img align="right" src="https://komarev.com/ghpvc/?username=leojacondev&color=blue">
