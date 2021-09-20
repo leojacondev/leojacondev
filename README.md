@@ -1,7 +1,7 @@
 <h3>Hello Dear, I'm Leonardo Jacon 👋</h3>
 
  
-- 💻 Working as Back-end Developer and Sysadmin at <a href="https://arcanthstudios.com/">ArcanthStudios</a>.
+- 💻 Working as Back-end Developer and Sysadmin at <a href="https://arcanthstudios.com/">Arcanth Studios</a>.
 - 📚 Learning React Native, Robotics and Network Infrastructure.
 - 🎓 Studying IT at <a href="https://portal.ifsuldeminas.edu.br/">IFSULDEMINAS</a>.
 
