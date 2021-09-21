@@ -52,9 +52,10 @@
 
 <h3> :earth_americas: Contact me: </h3> 
 
-[![Linkedin: Leonardo Jacon](https://img.shields.io/badge/-Leonardo%20Jacon-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/leonardo-jacon)](https://linkedin.com/in/leonardo-jacon)
-[![Gmail Badge](https://img.shields.io/badge/-eu@leojacon.dev-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:eu@leojacon.dev)](mailto:eu@leojacon.dev)
+[![Linkedin: Leonardo Jacon](https://img.shields.io/badge/-Leonardo%20Jacon-purple?style=flat-square&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/leonardo-jacon)](https://linkedin.com/in/leonardo-jacon)
+[![Gmail Badge](https://img.shields.io/badge/-eu@leojacon.dev-purple?style=flat-square&logo=Gmail&logoColor=white&link=mailto:eu@leojacon.dev)](mailto:eu@leojacon.dev)
 [![GitHub Leonardo Jacon]( https://img.shields.io/github/followers/leojacondev?label=follow&style=social)](https://github.com/leojacondev)
 
-<h4> ↪️ Thank you for visiting! ♥️ </h4>
-<img align="right" src="https://komarev.com/ghpvc/?username=leojacondev&color=blue">
+<div>
+ <h4> ↪️ Thank you for visiting! ♥️ <img align="right" src="https://komarev.com/ghpvc/?username=leojacondev&color=blueviolet&style=flat-square"></h4>
+</div>
