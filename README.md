@@ -1,55 +1,68 @@
 <h3>Hello Dear, I'm Leonardo Jacon 👋</h3>
 
  
-- 💻 Looking for openings!
-- 📚 Learning React Native, Robotics and Network Infrastructure.
-- 📱 Doing tech things to <a href="https://instagram.com/geducbr">GEDUC</a>.
+- 💻 Currently working as IT Analyst @ <a href="https://alaresinternet.com.br">Alares</a>.
+- 📚 Learning Terraform and L3 Routing Protocols.
 - 🎓 Studying Computer Science at <a href="https://portal.ifsuldeminas.edu.br/">IFSULDEMINAS</a>.
 
 <h3> :rocket: My Skills </h3>
 
-**General Applications and Data**
+**Languages & Stacks**
 
-  ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=f02020)
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
+  ![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript)
   ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
   ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
   ![PHP](https://img.shields.io/badge/-PHP-333333?style=flat&logo=PHP)
   ![C](https://img.shields.io/badge/-C-333333?style=flat&logo=c)
   ![React Native](https://img.shields.io/badge/-React%20Native-333333?style=flat&logo=react)
-  ![Spigot/Bukkit](https://img.shields.io/badge/-Spigot/Bukkit-333333?style=flat&logo=minecraft)
+  ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=f02020)
+  ![Spigot/Bukkit](https://img.shields.io/badge/-Spigot/Bukkit-333333?style=flat&logo=spigotmc)
   ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
   ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
 
-**Utilities**
+**DevOps & Infrastructure**
 
+  ![VMWare](https://img.shields.io/badge/-VMWare-333333?style=flat&logo=vmware)
+  ![Proxmox](https://img.shields.io/badge/-Proxmox-333333?style=flat&logo=proxmox) 
+  ![Citrix](https://img.shields.io/badge/-Citrix-333333?style=flat&logo=citrix) 
+  ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
+  ![Kubernetes](https://img.shields.io/badge/-Kubernetes-333333?style=flat&logo=Kubernetes)
+  ![Ansible](https://img.shields.io/badge/-Ansible-333333?style=flat&logo=ansible)
+  ![Terraform](https://img.shields.io/badge/-Terraform-333333?style=flat&logo=terraform)
+
+**Networking & Security**
+
+  ![Fortinet](https://img.shields.io/badge/-Fortinet-333333?style=flat&logo=fortinet)
+  ![PFSense](https://img.shields.io/badge/-PFSense-333333?style=flat&logo=pfsense) 
+  ![Cloudflare](https://img.shields.io/badge/-Cloudflare-333333?style=flat&logo=cloudflare) 
+  ![Akamai](https://img.shields.io/badge/-Akamai-333333?style=flat&logo=akamai)
+  ![Falcon](https://img.shields.io/badge/-Falcon-333333?style=flat&logo=falcon)
+  ![Qualys](https://img.shields.io/badge/-Qualys-333333?style=flat&logo=qualys)
+  ![Mikrotik](https://img.shields.io/badge/-Mikrotik-333333?style=flat&logo=mikrotik)
+  ![Huawei](https://img.shields.io/badge/-Huawei-333333?style=flat&logo=huawei)
+  ![Juniper](https://img.shields.io/badge/-Juniper-333333?style=flat&logo=junipernetworks)
+  ![Nokia](https://img.shields.io/badge/-Nokia-333333?style=flat&logo=nokia)
+  ![Ubiquiti](https://img.shields.io/badge/-Ubiquiti-333333?style=flat&logo=ubiquiti)
+  ![Hyprland](https://img.shields.io/badge/-Hyprland-333333?style=flat&logo=hyprland)
+
+**Cloud**
+
+  ![GCP](https://img.shields.io/badge/-GCP-333333?style=flat&logo=googlecloud)
+  ![AWS](https://img.shields.io/badge/-AWS-333333?style=flat&logo=amazonwebservices)
+  
+**Tools**
+
+  ![IntelliJ Idea](https://img.shields.io/badge/-IntelliJ%20IDEA%20-333333?style=flat&logo=intellijidea)
+  ![Termius](https://img.shields.io/badge/-Termius-333333?style=flat&logo=termius)
   ![Insomnia](https://img.shields.io/badge/-Insomnia-333333?style=flat&logo=insomnia)
   ![Postman](https://img.shields.io/badge/-Postman-333333?style=flat&logo=postman)
-
-**DevOps**
-
-  ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
-  ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
-  ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
-
-**Development Tools**
-
-  ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
-  ![IntelliJ Idea](https://img.shields.io/badge/-IntelliJ%20IDEA%20-333333?style=flat&logo=intellijidea)
-  ![Trello](https://img.shields.io/badge/-Trello-333333?style=flat&logo=trello&logoColor=007ACC)
+  ![DBeaver](https://img.shields.io/badge/-DBeaver-333333?style=flat&logo=dbeaver)
+  ![Talend](https://img.shields.io/badge/-Talend-333333?style=flat&logo=talend)
+  ![Jira](https://img.shields.io/badge/-Jira-333333?style=flat&logo=jirasoftware)
+  ![Sonarqube](https://img.shields.io/badge/-Sonarqube-333333?style=flat&logo=sonarqube)
  
 <hr/>
-
-<div>
-<a href="https://github.com/leojacondev">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=leojacondev&theme=midnight-purple&show_icons=true" />
-</a>
-&nbsp;
-<a href="https://github.com/leojacondev">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leojacondev&layout=compact&langs_count=6&theme=midnight-purple"/>  
-</a>
-
-</div>
 
 <h3> :earth_americas: Contact me: </h3> 
 
